@@ -1,0 +1,6 @@
+[submodule "folder1/mysubmodule"]
+	path = folder1/mysubmodule
+	url = https://github.com/nordineb/Submodule1.git
+[submodule "folder2/mysubmodule"]
+	path = folder2/mysubmodule
+	url = https://github.com/nordineb/Submodule1.git
